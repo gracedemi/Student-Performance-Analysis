@@ -141,5 +141,5 @@ A single model predicts multiple student outcomes at once:
    ```bash
    pip install numpy pandas matplotlib seaborn scikit-learn
 
-2. Place the dataset file in the same folder as your script.
+2. Place the dataset file in the same folder as the script.
 3. Run the Python script
